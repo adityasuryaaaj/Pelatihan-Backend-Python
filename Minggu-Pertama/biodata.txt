@@ -1,0 +1,24 @@
+
+=== BIODATA ANDA ===
+Nama = alip
+Umur = 90
+Hobi = dsafbhfb
+alamat = fefwefh
+
+=== BIODATA ANDA ===
+Nama =  aditya
+Umur =  27
+Hobi =  SepakBola
+alamat =  Kemayoran
+
+=== BIODATA ANDA ===
+Nama =  Alif Rizky Riandi
+Umur =  27
+Hobi =  Monitoring
+alamat =  BojongGede
+
+=== BIODATA ANDA ===
+Nama = aditya
+Umur = surya
+Hobi = faewfntf
+alamat = ftrrfaqt
